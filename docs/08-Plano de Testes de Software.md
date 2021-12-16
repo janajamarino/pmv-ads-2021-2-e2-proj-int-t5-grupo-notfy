@@ -77,6 +77,20 @@ Então o sistema deve retornar uma mensagem de erro "É obrigatório informar <c
  Quero gerenciar os notificadores da minha base
  
  
+ ![img](img/cen1.PMG)
+ ![img](img/cen2.PNG)
+ ![img](img/cen3.PNG)
+ ![img](img/cen4.PNG)
+ ![img](img/cen5.PNG)
+ ![img](img/cen6.PNG)
+ ![img](img/cen7.PNG)
+ ![img](img/cen8.PNG)
+ ![img](img/cen9.PNG)
+ ![img](img/cen10.PNG)
+ ![img](img/cen11.PNG)
+ ![img](img/cen12.PNG)
+ ![img](img/cen13.PNG)
+ 
  
 ## Ferramentas de Testes (Opcional)
 
